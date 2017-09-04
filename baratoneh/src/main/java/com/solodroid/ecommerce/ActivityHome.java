@@ -20,6 +20,7 @@ public class ActivityHome extends Fragment implements OnItemClickListener {
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
+
 		View v = inflater.inflate(R.layout.fragment_list, container, false);
 
 		gridview = (GridView) v.findViewById(R.id.gridView1);

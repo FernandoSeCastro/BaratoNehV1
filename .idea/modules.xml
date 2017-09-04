@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EcommerceAndroidApp.iml" filepath="$PROJECT_DIR$/EcommerceAndroidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaratoNehV1.iml" filepath="$PROJECT_DIR$/BaratoNehV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/baratoneh/baratoneh.iml" filepath="$PROJECT_DIR$/baratoneh/baratoneh.iml" />
     </modules>
   </component>
